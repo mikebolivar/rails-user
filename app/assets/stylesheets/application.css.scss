@@ -23,6 +23,10 @@
 
 $gray-medium-light: #eaeaea;
 
+body{
+  padding-top: 60px;
+}
+
 @mixin box_sizing {
   -moz-box-sizing:    border-box;
   -webkit-box-sizing: border-box;
